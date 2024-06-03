@@ -13,7 +13,7 @@ You will need python to run the app.
 Using pip:
 
 ```sh
-pip install dash numpy pandas scipy plotly
+pip install dash numpy pandas scipy plotly dash-bootstrap-components
 ```
 
 Using conda: 
